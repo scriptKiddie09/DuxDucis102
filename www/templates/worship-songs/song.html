@@ -1,0 +1,14 @@
+<ion-view title="{{song.song_name}}" hide-back-button="isPlaying">
+  <ion-content >
+    <div class="item item-divider"><button class="button button-icon icon ion-play"  ng-click="playMedia(song.song_url)"ng-hide="isStreaming"></button>
+      <button class="button button-icon icon ion-pause"  ng-click="pauseMedia()" ng-show="isStreaming"></button></div>
+  	<h3 style="text-align:center;">{{song.song_name}}</h3>
+  	<div class="list card">
+  		<div class="item item-body">
+  			<p ng-bind-html="song.song_lyrics"></p>
+  		</div>
+  	</div>
+
+  </ion-content>
+ 
+</ion-view>

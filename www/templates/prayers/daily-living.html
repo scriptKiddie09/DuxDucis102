@@ -1,0 +1,10 @@
+<ion-view title="Daily Living">
+  <ion-content>
+    <div class="list">
+    	<a class="item item-thumbnail-left" ng-repeat="prayer in prayers | filter: {prayer_category: 'Daily Prayers'}" ui-sref="tab.daily-prayers({prayerId:prayer.id})">
+    	<img src="{{prayer.image.thumb}}">
+    		{{prayer.prayer_title}}
+    	</a>
+    </div>
+  </ion-content>
+</ion-view>

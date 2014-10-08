@@ -1,0 +1,12 @@
+<ion-view title="{{prayer.prayer_title}}">
+  <ion-content>
+    <img class="full-image"src="{{prayer.image.full}}">
+    	<h3 style="text-align:center;">{{prayer.prayer_title}}</h3>
+    	<div class="list card" ng-class="modeClass">
+    	
+    	<div class="item item-body">
+    		<p ng-bind-html="prayer.content"></p>
+    	</div>
+    </div>
+  </ion-content>
+</ion-view>

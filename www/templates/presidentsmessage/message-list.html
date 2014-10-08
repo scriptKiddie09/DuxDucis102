@@ -1,0 +1,15 @@
+<ion-view title="President's Message">
+  <ion-content>
+    <div class="list card" ng-repeat="item in messages">
+      <div class="item">
+        <h2 ui-sref="tab.presidentsmessage-item({messageId:$index})">{{item.title}}</h2>
+        <p>{{item.date}}</p>
+      </div>
+
+      <div class="item item-body">
+        <p ng-bind-html="item.excerpt"></p><p ui-sref="tab.presidentsmessage-item({messageId:$index})">Read More</p>
+        <img class="full-image" ng-src="{{item.thumbnail_images.medium.url}}">
+      </div>
+    </div>
+   </ion-content>
+</ion-view>

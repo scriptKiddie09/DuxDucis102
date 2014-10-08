@@ -1,0 +1,10 @@
+<ion-view title="Saints">
+  <ion-content>
+    <div class="list">
+    	<div class="item item-thumbnail-left" ng-repeat="saint in saints" ui-sref="tab.saint-info({saintId:saint.id})">
+    	<img ng-src="{{saint.image.thumb}}">
+    		{{saint.saint_name}}
+    	</div>
+    </div>
+  </ion-content>
+</ion-view>

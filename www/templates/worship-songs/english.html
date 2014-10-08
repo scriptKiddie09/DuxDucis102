@@ -1,0 +1,9 @@
+<ion-view title="English Songs" >
+  <ion-content >
+  	<div class="list">
+        <div class="item" ng-repeat="song in songs | filter: {song_category:'English Songs'}" ui-sref="tab.song({songId:song.id})">
+            {{song.song_name}}
+        </div>
+    </div>
+  </ion-content>
+</ion-view>

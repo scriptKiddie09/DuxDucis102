@@ -1,0 +1,49 @@
+{
+    "contact_collection": [
+        {
+            "id": 0,
+            "name": "Bishop Mylo Hubert Vergara",
+            "email": "bishopmylo@dioceseofpasig.org"
+        },
+        {
+            "id": 1,
+            "name": "Chancery, for all diocesan concern",
+            "email": "chancellor@dioceseofpasig.org"
+        },
+        {
+            "id": 2,
+            "name": "For donations and financial inquiries, treasury, accounting, properties, cemetery",
+            "email": "oeconomus@dioceseofpasig.org"
+        },
+        {
+            "id": 3,
+            "name": "For canonical inquiries",
+            "email": "judicialvicar@dioceseofpasig.org"
+        },
+        {
+            "id": 4,
+            "name": "For canonical inquiries",
+            "email": "mediarelations@dioceseofpasig.org"
+        },
+        {
+            "id": 5,
+            "name": "For vocation and youth affairs",
+            "email": "youth@dioceseofpasig.org"
+        },
+        {
+            "id": 6,
+            "name": "For schools in the diocese of Pasig",
+            "email": "padss@dioceseofpasig.org"
+        },
+        {
+            "id": 7,
+            "name": "Laity concerns /BEC / diocesan pastoral councils",
+            "email": "laity@dioceseofpasig.org"
+        },
+        {
+            "id": 8,
+            "name": "Social services / social concerns / Caritas Pasig",
+            "email": "ssdmpasig@dioceseofpasig.org"
+        }
+    ]
+}

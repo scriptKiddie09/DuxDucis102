@@ -1,0 +1,38 @@
+<ion-view title="{{church.church_name}}">
+  <ion-content>
+  	 <ion-slide-box on-slide-changed="slideHasChanged($index)">
+			  <ion-slide>
+			   	<img src="{{church.image.first_image}}">
+			  </ion-slide>
+
+			  <ion-slide>
+			    <img src="{{church.image.second_image}}">
+			  </ion-slide>
+	 </ion-slide-box>
+
+	<div class="list card">
+		<div class="item item-divider">
+			<h2>{{church.church_name}}</h2>
+		</div>
+
+		<div class="item">
+			<p>Parish Priest: <b>{{church.parish_priest.name}}</b></p>
+		</div>
+		<div class="item">
+			<p>Feast Day: <b>{{church.feast_day}}</b></p>
+		</div>
+
+		<div class="item">
+			<p>Titular: <b>{{church.titular}}</b></p>
+		</div>
+
+		<div class="item">
+			<p>Contact Number: <b>{{church.contact}}</b></p>
+		</div>
+
+	<button class="button button-block button-positive icon-right ion-map" >
+ 		Show Map
+	</button>
+</div>
+  </ion-content>
+</ion-view>

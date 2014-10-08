@@ -1,0 +1,18 @@
+<ion-view title="Account">
+  <ion-content class="padding">
+
+      <p style="font-size:{{font.size}}px">Font-Size</p>	
+      <div class="range">
+      	<p>A</p>
+      	<input type="range" name="volume" min="10 "max="30" ng-model="font.size">
+      	<p style="font-size:25px;">A+</p>
+      </div>
+
+       	<div class="list" >
+	    	<ion-radio ng-repeat="item in style" ng-value="item.value"  ng-model="customClass.value">
+	    		{{item.text}}
+	    	</ion-radio>
+   	 	</div>
+      
+  </ion-content>
+</ion-view>

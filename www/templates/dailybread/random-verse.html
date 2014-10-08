@@ -1,0 +1,11 @@
+<ion-view title="Random Verse">
+  <ion-content ng-repeat="item in randomverse">
+  	<h1 ng-bind-html="item.bookname"></h1>
+  	<h3>{{item.chapter}}:{{item.verse}}</h3>
+  	<div class="list card" ng-class="modeClass">
+  		<div class="item item-body">
+  			<p ng-bind-html="item.text"></p>
+  		</div>
+  	</div>
+  </ion-content>
+</ion-view>

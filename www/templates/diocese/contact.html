@@ -1,0 +1,14 @@
+<ion-view title="Contact">
+  <ion-content>
+  <div class="list card">
+  		<div class="item item-text-wrap">
+  			<p style="text-align:center;">For all your inquiries, we have the emails of the proper offices by which you may write directly to them.</p>
+  			<p style="text-align:center;"><b>Write to the following:</b></p>
+  		</div>	
+  </div>
+  <div class="row" ng-repeat="contact in contacts"> 
+  	<div class="col">{{contact.name}}</div>
+  	<div class="col">{{contact.email}}</div>
+  </div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,16 @@
+<ion-view title="{{saint.saint_name}}">
+  <ion-content class="padding">
+    <img class="full-image" ng-src="{{saint.image.full}}">
+   	<h3 style="text-align:center;">{{saint.saint_name}}</h3>
+    <h4 style="text-align:center;">{{saint.feast_day}}</h4>
+    <hr/>
+   	<div class="list card" ng-class="modeClass">
+   		<div class="item item-body">
+   			<h4><b>Biography:</b></h4>
+   			<p>{{saint.saint_biography}}</p>
+   			<hr/>
+   			<p><b>Patron</b> {{saint.patron}}</p>
+   		</div>
+   	</div>
+  </ion-content>
+</ion-view>

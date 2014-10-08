@@ -1,0 +1,713 @@
+{
+    "prayer_collection": [
+        {
+            "id": 0,
+            "prayer_title": "Angelus",
+            "prayer_category": "Daily Prayers",
+            "content": "<p>Leader: The Angel of the Lord declared unto Mary..All: and she conceived of the Holy Spirit. (Hail Mary)Leader: Behold the handmaid of the Lord <br/> All: Be it done unto me according to thy word. (Hail Mary) <br/> Leader: And the Word was made Flesh. <br/> All: And dwelt among us. (Hail Mary) <br/> Leader: Pray for us, O Holy Mother of God, <br/> All: that we may be made worthy of the promises of Christ. (Hail Mary) <br/> Leader: Let us pray.. <br/> All: Pour forth, we beseech You, O Lord, Your grace into our hearts; that we, to whom the incarnation of Christ, Your Son, was made known by the message of an angel, made by His Passion and Cross be brought to the glory of His Resurrection, through Christ Our Lord. Amen. <br/> Leader: Glory be to the father, and of the son, and of the holy spirit.. <br/> All: As it was in the beginning.. . <br/> Leader: O’ Mary, Conceived without Sin, <br/> All: Pray for us. In the name of the father…</p>",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_angelus.png",
+                "full": "img/prayers/full/angelus.png"
+            }
+        },
+        {
+            "id": 1,
+            "prayer_title": "The 3 O'clock Prayer",
+            "prayer_category": "Daily Prayers",
+            "content": "<p>You died, Jesus, but the source of life flowed out for souls and the ocean of mercy opened up for the whole world. O Fountain of Life, immeasurable Divine Mercy, covers the whole world and empty Yourself out upon us. O Blood and Water, which flowed out from the Heart of Jesus as a fountain of mercy for us, I trust in You. Holy God, Holy Might One, Holy Immortal One, Have mercy on us and the whole world. (3x) Jesus, King of Mercy, we trust in You.</p>",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_3oclock.png",
+                "full": "img/prayers/full/3oclock.png"
+            }
+        },
+        {
+            "id": 2,
+            "prayer_title": "The Sign of the Cross",
+            "prayer_category": "Daily Prayers",
+            "content": "<p>In the name of the Father, and of the Son, and of the Holy Spirit. Amen.</p>",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_cross.png",
+                "full": "img/prayers/full/cross.png"
+            }
+        },
+        {
+            "id": 3,
+            "prayer_title": "The Lord's Prayer",
+            "prayer_category": "Daily Prayers",
+            "content": "<p>Our Father, in heaven; holy be Your Name; Your kingdom come; Your will be done on earth as it is in heaven. Give us today our daily bread; and forgive us our sins as we forgive those who sinned against us. Do not bring us to the test, but deliver us from evil. Amen.</p>",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_lord'sprayer.png",
+                "full": "img/prayers/full/lord'sprayer.png"
+            }
+        },
+        {
+            "id": 4,
+            "prayer_title": "Prayer of Praise",
+            "prayer_category": "Daily Prayers",
+            "content": "Glory be to the Father, and to the Son, and to the Holy Spirit. As it was in the beginning , is now, and ever shall be, world without end. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_praise.png",
+                "full": "img/prayers/full/praise.png"
+            }
+        },
+        {
+            "id": 5,
+            "prayer_title": "The Hail Mary",
+            "prayer_category": "Daily Prayers",
+            "content": "Hail Mary, full of grace, the Lord is with you. Blessed are You among women and blessed is the fruit of Your womb Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_prayermary.png",
+                "full": "img/prayers/full/prayermary.png"
+            }
+        },
+        {
+            "id": 6,
+            "prayer_title": "Prayer before Meals",
+            "prayer_category": "Daily Prayers",
+            "content": "Bless us O Lord and these Your gifts, which we are about to receive from Your bounty through Christ, our Lord. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_bm.png",
+                "full": "img/prayers/full/bm..png"
+            }
+        },
+        {
+            "id": 7,
+            "prayer_title": "Prayer after Meals",
+            "prayer_category": "Daily Prayers",
+            "content": "We give You thanks, Almighty God, for all Your benefits. You who live and reign, forever and ever. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_pm.png",
+                "full": "img/prayers/full/pm.png"
+            }
+        },
+        {
+            "id": 8,
+            "prayer_title": "Apostle's Creed",
+            "prayer_category": "Daily Prayers",
+            "content": "I believe in God, the Father Almighty, creator of heaven and earth. I believe in Jesus Christ, His only Son, Our Lord. He was conceived by the power of the Holy Spirit and born of the Virgin Mary. He suffered under Pontius Pilate, was crucified, died and was buried. He descended to the dead. On the third day, he rose again. He ascended into heaven and is seated at the right hand of the Father. He will come again to judge the living and the dead. I believe in the Holy Spirit, the Holy Catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body and life everlasting. Amen. ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_apostlec.png",
+                "full": "img/prayers/full/apostlec.png"
+            }
+        },
+        {
+            "id": 9,
+            "prayer_title": "Nicene Creed",
+            "prayer_category": "Daily Prayers",
+            "content": "I believe in one God, the Father almighty, maker of heaven and earth, of all things visible and invisible. I believe in one Lord Jesus Christ, the only Begotten Son of God, born of the Father before all ages. God from God, Light from Light, true God from true God, begotten, not made, consubstantial with the Father; through him all things were made. For us men and for our salvation He came down from heaven, and by the Holy Spirit was incarnate of the Virgin Mary, and became man. For our sake he was crucified under Pontius Pilate, He suffered death and was buried, and rose again on the third day in accordance with the Scriptures. He ascended into heaven and is seated at the right hand of the Father. He will come again in glory to judge the living and the dead and His kingdom will have no end. I believe in the Holy Spirit, the Lord, the giver of life, who proceeds from the Father and the Son, who with the Father and the Son is adored and glorified, who has spoken through the prophets. I believe in one, holy, catholic and apostolic Church. I confess one baptism for the forgiveness of sins and I look forward to the resurrection of the dead and the life of the world to come.Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_nc.png",
+                "full": "img/prayers/full/nc.png"
+            }
+        },
+        {
+            "id": 10,
+            "prayer_title": "Prayer to the Guardian Angel",
+            "prayer_category": "Daily Prayers",
+            "content": "Angel of God, my Guardian dear, to whom His love, commits me here. Ever this day, be at my side, to light and guard, to rule and guide. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_angel.png",
+                "full": "img/prayers/full/angel.png"
+            }
+        },
+        {
+            "id": 11,
+            "prayer_title": "O, My Good Angel",
+            "prayer_category": "Daily Prayers",
+            "content": "O, my good angel, whom God has appointed to be my guardian, enlighten and protect; direct and govern me who have been entrusted to you by the Divine Mercy. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_goodangel.png",
+                "full": "img/prayers/full/goodangel.png"
+            }
+        },
+        {
+            "id": 12,
+            "prayer_title": "Act of Faith",
+            "prayer_category": "Daily Prayers",
+            "content": "O my God I firmly believe that you are one God in three divine Persons, Father and Son, and Holy Spirit, I believe that your divine Son became man and died for our sins, and that he will come to judge the living and the dead. I believe these and all the truths which the holy Catholic Church teaches, because you revealed them, who can neither deceive. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_faith.png",
+                "full": "img/prayers/full/faith.png"
+            }
+        },
+        {
+            "id": 13,
+            "prayer_title": "Act of Hope",
+            "prayer_category": "Daily Prayers",
+            "content": "O my God, relying on your infinite goodness and promises, I hope to obtain pardon of my sins, the help of your grace, and life everlasting, through the merits of Jesus Christ, my Lord and Redeemer. Amen. ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_hope.png",
+                "full": "img/prayers/full/hope.png"
+            }
+        },
+        {
+            "id": 14,
+            "prayer_title": "Act of Love",
+            "prayer_category": "Daily Prayers",
+            "content": "O my God, I love you above all things, with my whole heart and soul, because you are all good and worthy of all my love. I love my neighbor as myself for the love of you. I forgive all who have injured me and I ask pardon of all whom I have injured. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_love.png",
+                "full": "img/prayers/full/love.png"
+            }
+        },
+        {
+            "id": 15,
+            "prayer_title": "Act of Contrition",
+            "prayer_category": "Daily Prayers",
+            "content": "O my God, I am heartily sorry for having offended you. I detest all my sins because of your just punishments, but most of all because they offended you, my God, who are all good and deserving of all my love. I firmly resolve, with the help of your grace, to sin no more and to avoid the occasions of sin. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_contrition.png",
+                "full": "img/prayers/full/contrition.png"
+            }
+        },
+        {
+            "id": 16,
+            "prayer_title": "Prayer to the Holy Spirit",
+            "prayer_category": "Daily Prayers",
+            "content": "Come Holy Spirit, fill the hearts of Your faithful and enkindle in them the fire of your love. Send forth Your spirit and they shall be created and You shall renew the face of the earth.Let us Pray:O God, who by the light of the Holy Spirit, did instruct the hearts of Your faithful, grant by the same Holy Spirit to relish what is right and just and always to rejoice in his consolation. Through Christ our Lord. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_hs.png",
+                "full": "img/prayers/full/hs.png"
+            }
+        },
+        {
+            "id": 17,
+            "prayer_title": "Prayer before Class",
+            "prayer_category": "Special Prayers",
+            "content": "Leader: Praise be Jesus Christ. <br/> All: Now and Forever.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_beforeclass.png",
+                "full": "img/prayers/full/beforeclass.png"
+            }
+        },
+        {
+            "id": 18,
+            "prayer_title": "Prayer to St.Michael",
+            "prayer_category": "Special Prayers",
+            "content": "Leader: May the Holy triune God live in our hearts <br/>  All: And the hearts of all <br/>  Leader: That in all things. <br/>  All: God may be glorified.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_stmichael.png",
+                "full": "img/prayers/full/stmichael.png"
+            }
+        },
+        {
+            "id": 19,
+            "prayer_title": "Prayer After Class (Memorare)",
+            "prayer_category": "Special Prayers",
+            "content": "Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to your protection, implored your help, or sought your intercession, was left unaided. Inspired by this confidence, I fly unto you, O Virgin of virgins, my Mother.  To you I come, before you I stand, sinful and sorrowful.  O Mother of the Word Incarnate, despise not my petitions, but in your mercy, hear and answer me.  Amen!",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_memorare.png",
+                "full": "img/prayers/full/memorare.png"
+            }
+        },
+        {
+            "id": 20,
+            "prayer_title": "A Student's Prayer",
+            "prayer_category": "Special Prayers",
+            "content": "Jesus, my God: I’m a loafer! I can’t deceive you as I do my parents. I’m facing my books but my mind wanders all over the place.They tell me I have no “method”. At other times they say that I am ungrateful, because I don’t take advantage of the opportunities which will never come my way again.My father does not get tired of telling me repeatedly that he had to work and study at the same time, and that in his days there was more “responsibility”.  But even when I know he is right (which makes it worse for me), I go back to class and fool around with my classmates, ignore my teachers and at times even enjoy the luxury of being ironical, coming to class unprepared, studying between periods or on the way to the school (besides cheating in all almost all my written tests..) My God: I know, from the gospels that you were a real student ready to learn everything that was good and true.Change me and my foolish head so full of day dreams, so that I may become a good student. Please, make this come true... Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_studentprayer.png",
+                "full": "img/prayers/full/studentprayer.png"
+            }
+        },
+        {
+            "id": 21,
+            "prayer_title": "A Teacher's Prayer",
+            "prayer_category": "Special Prayers",
+            "content": "I want to teach my students how to live this life on earth <br/>  To face its struggles and its strife  <br/>  And improve their worth <br/>  Not just a lesson in a book <br/>  Or how the rivers flow <br/>  But how to choose the proper path wherever they may go <br/>  To understand eternal truth <br/>  And know the right from wrong <br/>  And gather all the beauty of a flower and a song <br/>  For I help the world to grow in wisdom and in grace <br/>  Then I shall feel that I have won and I have filled my place <br/>  And so I asked your guidance, God <br/>  That I may do my part <br/>  For character and confidence  <br/>  And happiness of heart. Amen. ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_teacherprayer.png",
+                "full": "img/prayers/full/teacherprayer.png"
+            }
+        },
+        {
+            "id": 22,
+            "prayer_title": "For the Sick",
+            "prayer_category": "Special Prayers",
+            "content": "We know, Lord God, that You have a special love for the sick. They are Your children and they are in pain. Give them the courage to discover a value in suffering. In your good time bring them true relief. Keep them content, happy and peaceful.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_sick.png",
+                "full": "img/prayers/full/sick.png"
+            }
+        },
+        {
+            "id": 23,
+            "prayer_title": "Prayer for my Family",
+            "prayer_category": "Special Prayers",
+            "content": "Dear Lord, thank you for my family: and not only for those I lived with, but grandparents, uncles, aunties and cousins. Please be with them today. <br/>  Dear Lord, We are sorry for doing wrong things. Please forgive us. Help us to forgive those who are unkind to us. <br/>  Dear Lord, Help me to notice people who need my help. Children who are alone without friends, My parents or teachers, when they need a hand. <br/>  Dear Lord, as I turn off the light, please be with me. Help me to get to sleep, and please give me good dreams.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_family.png",
+                "full": "img/prayers/full/family.png"
+            }
+        },
+        {
+            "id": 24,
+            "prayer_title": "For my Friends",
+            "prayer_category": "Special Prayers",
+            "content": "Lord, Father and Friend, help me to be a friend to all who need me. Show me how to share Your love. Teach me to see You in others. Let me see that more important than money and personal achievements are true friends I make and keep, the friends I’ll come to love and cherish and always remember. Lord, bless my friends. Lead them closer to You just as You are doing to me. Deliver them whenever they are in darkness and draw them into the light of Your love. Cast out their care, anxieties, worries and concerns, or give them strength to cope up with them. Sustain them with your peace and love and grant them Your constant guidance throughout their lives. In Jesus name I pray.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_friends.png",
+                "full": "img/prayers/full/friends.png"
+            }
+        },
+        {
+            "id": 25,
+            "prayer_title": "Prayer for Courage",
+            "prayer_category": "Special Prayers",
+            "content": "Lord God, send us Your Spirit, so that we may find the strength and courage to do what we know is right.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_courage.png",
+                "full": "img/prayers/full/courage.png"
+            }
+        },
+        {
+            "id": 26,
+            "prayer_title": "A Prayer for Strength",
+            "prayer_category": "Special Prayers",
+            "content": "O God, You search me and You know me, You know me through and through. You know my weakness and my difficulties, my failures and my struggles. Spend me Your Spirit so that I may have the strength to follow where You call me and to be obedient to You. Make me a true disciple of Your Son, Jesus Christ Our Lord.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_strength.png",
+                "full": "img/prayers/full/strength.png"
+            }
+        },
+        {
+            "id": 27,
+            "prayer_title": "Prayer for Serenity",
+            "prayer_category": "Special Prayers",
+            "content": "God, grant me the serenity to accept the things I cannot change; courage to change the thing I can; and wisdom to know the difference. Living one day at a time; enjoying one moment at a time; accepting hardships as the pathway to peace; taking, as He did, this sinful world as it is, not as I would have it. Trusting that You will make all things right if I surrender to Your Will; that I may be reasonably happy in this life and supremely happy with You forever in the next. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_serenity.png",
+                "full": "img/prayers/full/serenity.png"
+            }
+        },
+        {
+            "id": 28,
+            "prayer_title": "Prayer for Generosity",
+            "prayer_category": "Special Prayers",
+            "content": "O Dearly beloved Word of God, teach me to be generous, to serve Thee as Thou dost deserve, to give without counting the cost, to fight without fretting at my wounds, to labor without seeking rest, to spend myself without looking for any reward other than that of knowing that I do Thy holy will. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_generosity.png",
+                "full": "img/prayers/full/generosity.png"
+            }
+        },
+        {
+            "id": 29,
+            "prayer_title": "Prayer for Service",
+            "prayer_category": "Special Prayers",
+            "content": "Make us worthy, Lord, to serve our fellowmen throughout the world who live and die in poverty. Give them through our hands, this day their daily bread, and by our understanding love, give peace and joy.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_service.png",
+                "full": "img/prayers/full/service.png"
+            }
+        },
+        {
+            "id": 30,
+            "prayer_title": "Stewardship Prayer",
+            "prayer_category": "Special Prayers",
+            "content": "Almighty and ever-faithful Lord, gratefully acknowledging your mercy and humbly admitting our need, we pledge our trust in You and each other. Filled with desire we respond to Your call for discipleship by shaping our lives in imitation of Christ. We profess that the call requires us to be stewards of Your gifts. As stewards, we receive Your gifts gratefully, cherish and tend them in a responsible manner, share them in practice and love with others, and return them with increase to the Lord. We pledge to our ongoing formation as stewards and our responsibility to call others to the same endeavor. Almighty and ever-faithful God, it is our fervent hope and prayer that You who have begun this good work in us will bring it to fulfillment in Jesus Christ, our Lord. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_steward.png",
+                "full": "img/prayers/full/steward.png"
+            }
+        },
+        {
+            "id": 31,
+            "prayer_title": "Prayer for Perseverance",
+            "prayer_category": "Special Prayers",
+            "content": "Eternal Father, I humbly You, and thank You for having created me, and for having redeemed me through Jesus Christ. I thank You most sincerely for having made me a Christian, by giving me the true faith, and by adopting me as Your son, in the sacrament of baptism. I thank you for having, after the numberless sins I had committed, waited for my repentance, and for having pardoned (as I humbly hope) all the offenses which I have offered to You, and for which I am now sincerely sorry, because they have been displeasing to You, who art infinite goodness. I thank You for having preserve me from many relapses, of which I would have been guilty if You had not protected me. But my enemies still continue, and will continue till death, to combat against me, and to endeavor to make me their slave. If You does not constantly guard and succor me with Your aid, I, a miserable creature, shall return to sin, and shall certainly lose Your grace.  I beseech You, then, for the love of Jesus Christ, to grant me holy perseverance unto death. Jesus, Your Son, has promised that You will grant whatsoever we ask in his name. Through the merits, then, of Jesus Christ, I beg, for myself, and for all the just, the grace never again to be separated from Your love, but to love You forever, in time and eternity. Mary, Mother of God, pray to Jesus for me.   ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_perseverance.png",
+                "full": "img/prayers/full/perseverance.png"
+            }
+        },
+        {
+            "id": 32,
+            "prayer_title": "Prayer for Guidance",
+            "prayer_category": "Special Prayers",
+            "content": "O gracious and holy Father, give us wisdom to perceive you, intelligence to understand you, diligence to seek you, patience to wait for you, eyes to see you, a heart to meditate on you, and a life to proclaim you, through the power of the spirit of Jesus Christ, our Lord.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_guidance.png",
+                "full": "img/prayers/full/guidance.png"
+            }
+        },
+        {
+            "id": 33,
+            "prayer_title": "Prayer for Peace",
+            "prayer_category": "Special Prayers",
+            "content": "Lord, make me a channel of your peace, that where there is hatred, I may bring love: Where there is wrong, I may bring the spirit of forgiveness:  Where there is discord, I may bring harmony; Where there is error, I may bring truth; Where there is doubt, I may bring faith; Where there is despair, I may bring hope; Where there are shadows, I may bring light; Where there is sadness, I may bring joy; Lord, grant I may seek rather to comfort than to be comforted; To understand than to be understood; To love than to be loved; For it is by forgetting self that one finds, it is by forgiving that one is forgiven, it is by dying that one awakens to eternal life. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_peace.png",
+                "full": "img/prayers/full/peace.png"
+            }
+        },
+        {
+            "id": 34,
+            "prayer_title": "Prayer on Love",
+            "prayer_category": "Special Prayers",
+            "content": "My Lord Jesus Christ, I thank You for that great love and charity You have shown me. I have learned that it is a sign of great love when the Lord punishes His servant for all his misdeeds in this world, rather than punishes him in the next. And I am joyfully prepared to undergo every trial and adversity which You, God, are pleased to send me for my sins. Amen. ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_love2.png",
+                "full": "img/prayers/full/love2.png"
+            }
+        },
+        {
+            "id": 35,
+            "prayer_title": "Prayer before Exam",
+            "prayer_category": "Special Prayers",
+            "content": "Lord, it seems though our live are one test after another, weighing us in somebody’s balance. Save us from taking this coming tests too seriously or too lightly, but grant that we may reflect the best of the work we have done and the best of the teaching we’ve received; Through Jesus Christ, our Lord. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_beforeexam.png",
+                "full": "img/prayers/full/beforeexam.png"
+            }
+        },
+        {
+            "id": 36,
+            "prayer_title": "Prayer after Exam",
+            "prayer_category": "Special Prayers",
+            "content": "Thank you, Lord, for enlightening my mind during the examination. Thanks, too for my classmates who did well. I pray for those who failed, and help them to succeed net time. Pity those who did not study and resort to cheating. They do not realize how damaging it is for all; For their parents who trust them, for their teachers, and for the rest of the students. When I was handed the exam sheet, I was shaking; I did not know what to write. But then you gave me the light I need to remember what at first I thought I did not know. I give you infinite thanks. Thank you, Lord! I do not deserve this peace of mind; but the same, thank you for letting me know the answers and for letting me do well. Amen. ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_afterexam.png",
+                "full": "img/prayers/full/afterexam.png"
+            }
+        },
+        {
+            "id": 37,
+            "prayer_title": "Prayer for our School",
+            "prayer_category": "Special Prayers",
+            "content": "O God, we pray for our schools and universities, especially…  Help us to value the experiences of studying for its own sake. Bless our community, and make us wise but not cunning, perceptive but not cynical, and generous in a world where greed and ruthlessness often prevail. In the name of Jesus. Amen. ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_school.png",
+                "full": "img/prayers/full/school.png"
+            }
+        },
+        {
+            "id": 38,
+            "prayer_title": "For Meetings",
+            "prayer_category": "Special Prayers",
+            "content": "Dear Lord, we offer this gathering for you, and ask You to bless it with Your wisdom and grace. We thank You for this opportunity to be together to grow in our love and service of You and each other. We ask You to enlighten our minds to know what is true and just and strengthen our wills to carry out faithfully what we come to see as our duty. May all our thought, words, and actions be directed to making Your name and Your love better known among me n of their sanctification and their happiness here and in eternity. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_meeting.png",
+                "full": "img/prayers/full/meeting.png"
+            }
+        },
+        {
+            "id": 39,
+            "prayer_title": "School Prayers",
+            "prayer_category": "Special Prayers",
+            "content": "Father, you created me in your image and likeliness. I have come from you and I am ordained to you. Watch over me. Inspire me to choose good and to avoid evil. Allow me the sensitivity to see the needs of my neighbor and the strength to respond gently. Give me the college to follow the truth, and the grace to know you my Father. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_schoolprayer.png",
+                "full": "img/prayers/full/schoolprayer.png"
+            }
+        },
+        {
+            "id": 40,
+            "prayer_title": "Prayer for a Study Group",
+            "prayer_category": "Special Prayers",
+            "content": "Heavenly Father, send forth Your spirit to enlighten our mind and dispose our hearts to accept Your truth. Help us to listen to one another with openness and honesty, eager to learn from the talents and intuitions that You have given each of us. Never let differences of opinion diminish our mutual esteem and love. May we leave this meeting with more knowledge for You and Your son, in the unity of the Holy Spirit. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_studygroup.png",
+                "full": "img/prayers/full/studygroup.png"
+            }
+        },
+        {
+            "id": 41,
+            "prayer_title": "A Personal Prayer",
+            "prayer_category": "Special Prayers",
+            "content": "Oh God I come to you as humble as I possibly can be. I want you to know that I am asking for your forgiveness. I know I am wrong for what I have done. Everything that happens to me is to teach me a life lesson. I have to learn from all things as best as possible. Oh God take me from this sin that I have committed, help me to overcome the wrongdoing. Help me to help myself in this situation. Nothing in life is easy, everybody goes through things in life, and God you only give me what I can handle",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_personal.png",
+                "full": "img/prayers/full/personal.png"
+            }
+        },
+        {
+            "id": 42,
+            "prayer_title": "Children's Prayer to Mary",
+            "prayer_category": "Special Prayers",
+            "content": "Dear Mother of Jesus, look down upon me as I say my prayers slowly at my mother’s knee. I love thee, O Lady and please willest thou bring all little children to Jesus our King.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_mary.png",
+                "full": "img/prayers/full/mary.png"
+            }
+        },
+        {
+            "id": 43,
+            "prayer_title": "An Act of Spiritual Communion",
+            "prayer_category": "Special Prayers",
+            "content": "My Jesus, I believe that You are present in the Most Holy Sacrament. I love You above all things, and I desire to receive You into my soul. Since I cannot at this moment receive You into my soul. Since I cannot at this moment receive You sacramentally, come at least spiritually into my heart. I embrace You as if You were already there and unite myself wholly to You. Never permit me to be separated from You. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_communion.png",
+                "full": "img/prayers/full/communion.png"
+            }
+        },
+        {
+            "id": 44,
+            "prayer_title": "Prayer for Vocations",
+            "prayer_category": "Special Prayers",
+            "content": "Lord Jesus Christ, Shepherd of souls, who called the apostles to be fishers of men, raise up new apostles in your holy Church. Teach them that to serve you is to reign: to possess you is to possess all things. Kindle in the young hearts of our people the fire of zeal for souls. Make them eager to spread your kingdom upon earth. Grant them courage to follow you, who are the way, the truth and life: who lives and reigns forever and ever. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_vocation.png",
+                "full": "img/prayers/full/vocation.png"
+            }
+        },
+        {
+            "id": 45,
+            "prayer_title": "Prayer for Religious Vocations",
+            "prayer_category": "Special Prayers",
+            "content": "O God, you bestow gifts on human beings for the upholding of Your Church and the salvation of the whole world. Pour out your Spirit to inspire young people with the desire to follow you more closely by embracing the evangelical counsels of poverty, chastity, and obedience. Grant your powerful and continuing assistance to all who respond to your call so that they may remain faithful to their vocation throughout their lives. Lead them to greater fullness and make them living signs of the new person in Christ, freed from money, pleasure, and power, and understanding witness of your Kingdom. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_relvoc.png",
+                "full": "img/prayers/full/relvoc.png"
+            }
+        },
+        {
+            "id": 46,
+            "prayer_title": "Prayer for a Retreat",
+            "prayer_category": "Special Prayers",
+            "content": "Lord Jesus Christ, you told the apostles to retire to a desert place and rest awhile. I am taking this time to follow your example. Grant that I may obtain an abundance of your fruits from this retreat. Enable me to make it in union with you to know myself better and to get closer to you. Help me to listen attentively to ponder prayerfully and to speak wisely. Let me emerge from this spiritual renewal as a more committed Christian better equipped to advance along the path that You have laid out for me. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_retreat.png",
+                "full": "img/prayers/full/retreat.png"
+            }
+        },
+        {
+            "id": 47,
+            "prayer_title": "Birthday Prayer",
+            "prayer_category": "Special Prayers",
+            "content": "O God, I thank you for giving me another year of life. I thank you for all the people who have remembered me today, and who sent me cards, letters. Good wishes, and presents; for everything which I have been enable by You to do and to be in the past year. I tahnk you for all the experiences of the past year; For the times of success which will always be happy memories: For times of failure which reminded me of my own weakness and of my need of You, for times of joy when the sun is shining; for the times of sorrow which drove me to you. Forgive me, for the hours I’ve wasted: for the chance I failed to take: for the opportunities I missed in the past year. Help me in the days which lie ahead to make the best year yet, and in it to bring credit to myself, happiness to my loved ones, and to bring joy to you. This I ask for Jesus’ sake. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_birthday.png",
+                "full": "img/prayers/full/birthday.png"
+            }
+        },
+        {
+            "id": 48,
+            "prayer_title": "Miraculous Invocation to St. Therese",
+            "prayer_category": "Prayers to the Saints",
+            "content": "O glorious St. Therese, whom Almighty God has raised up to aid and counsel mankind, I implore your Miraculous Intercession. So powerful are you obtaining every need of body and soul our Holy Mother Church proclaims you a 'Prodigy of Miracles...the greatest Saint of Modern Times' Now I fervently beseech you to answer my petition (mention here) And to carry out your promises of spending Heaven doing good upon Earth...of letting fall from heaven a Shower of Roses. Henceforth, dear little flower, I will fulfill your plea 'to be made know everywhere' and i will never ceased too lead others to Jesus through you. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_sttherese.png",
+                "full": "img/prayers/full/sttherese.png"
+            }
+        },
+        {
+            "id": 49,
+            "prayer_title": "Prayer to St. Camillus De Lellis",
+            "patron":"Sick",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Most wonderful Saint, your compassion for the sick and the dying led you to find Jesus, the servant of the Sick. As the patron of nurses and hospital workers, infuse in them your compassionate spirit. Make hospitals resemble the inn in Christ's parable to which the Good Samaritan brought the wounded man saying: “Take care of him, and I will repay you for it”. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_camillus.png",
+                "full": "img/prayers/full/camillus.png"
+            }
+        },
+        {
+            "id": 50,
+            "prayer_title": "Prayer to St. Cecilia",
+            "patron":"Musicians",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Dear St. Cecilia, you become a heroic martyr ever faithful to your Divine bridegroom. You who heard angels sing, inspire musicians to gladden the hearts of people by filling the air with God's gift of music and reminding them of the Divine Musician who created all beauty. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_stcecilia.png",
+                "full": "img/prayers/full/stcecilia.png"
+            }
+        },
+        {
+            "id": 51,
+            "prayer_title": "Prayer to St. Aloysius Gonzaga",
+            "patron":"Youth",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Dear Christian youth, you were a faithful follower of Christ in the Society of Jesus. You steadily strove for perfection while generously serving the plague-stricken. Help our youth today who are faced with the plague of wrong values and false Gods. Show them how to harness their energies and to use them for their own and others' fulfillment, which will redound to the greater glory of God. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_aloysius.png",
+                "full": "img/prayers/full/aloysius.png"
+            }
+        },
+        {
+            "id": 52,
+            "prayer_title": "Prayer to St. Augustine",
+            "patron":"Philosophers",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Beloved Saint of our age. You were at first wholly human-centered and attached to false teachings. Finally converted through God's grace, you become a praying theologian-God-centered, God-loving, and God-preaching. Help theologians in their study of revealed truth. Let them always follow the Church Magisterium as they strive to communicate traditional teaching to our contemporaries. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_staugustine.png",
+                "full": "img/prayers/full/staugustine.png"
+            }
+        },
+        {
+            "id": 53,
+            "prayer_title": "Prayer to St. John Baptist De La Salle",
+            "patron":"Educators",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Well-known founder of the Congregation of the Brothers of the Christian Schools, Orthodox and prayerful theologian, you realize the very great value of competent Christian. How great your wholesome influences has been . Make your followers continue to be Christ-like models for all their students who in turn will edify others. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_delasalle.png",
+                "full": "img/prayers/full/delasalle.png"
+            }
+        },
+        {
+            "id": 54,
+            "prayer_title": "Prayer to St. John Vianney",
+            "patron":"Priests",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Saint Pastor of Ars and splendid model of all servants of souls, you were considered not very bright but you possessed the wisdom of the Saints. You were a true pontiff, a bridge-builder, between God and his people as countless penitents streamed to you confessional. Inspire all priests to be dedicated mediators between God and his people in our day. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_stvianney.png",
+                "full": "img/prayers/full/stvianney.png"
+            }
+        },
+        {
+            "id": 55,
+            "prayer_title": "Prayer to St. Dominic Savio",
+            "patron":"Altar Boys",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Great model of God-loving boys and cherished pupil of the famous Don Bosco, you died young, but spiritually mature. Your kindness won you many friends, but your love above all sought the Master who is present in our tabernacles. His praises you eucharistically sang. Make choir boys be singers like you for the love of Jesus, our most loving Master. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_savio.png",
+                "full": "img/prayers/full/savio.png"
+            }
+        },
+        {
+            "id": 56,
+            "prayer_title": "Prayer to St. Thomas Aquinas",
+            "patron":"Students",
+            "prayer_category": "Prayers to the Saints",
+            "content": "Wonderful Theologian and Doctor of the Church, you learned more from the Crucifix than from books. Combining both sources, you left us the marvelous Summa of the theology, broadcasting more glorious enlightenment to all. You always sought for the true light and studied for God's honor and glory. Help us to study without ambition and pride in imitation of you. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_aquinas.png",
+                "full": "img/prayers/full/aquinas.png"
+            }
+        },
+        {
+            "id": 57,
+            "prayer_title": "Prayer to St. Joseph",
+            "patron":"Fathers",
+            "prayer_category": "Prayers to the Saints",
+            "content": "To you, blessed Joseph, we come with confidence in this hour of need, trusting in out powerful protection. Your loving service to the Immaculate Virgin Mary of God, and your fatherly affection for the Child Jesus, inspire us with faith in the power of your intercession before the throne of God. We pray, first to all, for the Church: that it may be free from error and corruption, and be a shining light of universal love and justice. We ask your intercession for our loved ones in their trials and adversities, that they may be inspired by the love, obedience and affection of the Holy Family, and to each other a mutual source of consolation and Christian fidelity. We ask your intercession also for our special need.. Keep us one and all under your protection so that strengthen by your example and assistance, we may lead a holy life, die a happy death, and come to the possession o everlasting happiness in heaven. Amen",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_stjoseph.png",
+                "full": "img/prayers/full/stjoseph.png"
+            }
+        },
+        {
+            "id": 58,
+            "prayer_title": "Prayer to St. Lorenzo Ruiz",
+            "prayer_category": "Prayers to the Saints",
+            "content": "O St. Lorenzo Ruiz, you are the first Filipino to be raised to the glory of the saints. Intercede for us, the young men and women of the Philippines. Give us that same courage that led you to die a martyr and to desire even a thousand deaths for the Christian faith. May we hold fast to our love for God that we may never waiver and give up in the midst of difficulties and allurements of life. Supported by your help may we receive one day the reward of everlasting life. Amen.  ",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_ruiz.png",
+                "full": "img/prayers/full/ruiz.png"
+            }
+        },
+        {
+            "id": 59,
+            "prayer_title": "Prayer to Blessed Pedro Calungsod",
+            "prayer_category": "Prayer to thee Saints",
+            "content": "O Blessed Pedro Calungsod, you left our Philippine shores to spread the Good News of Christ in a foreign land. Intercede for us, the young men and women of the Philippines. Give us that same desire to be living witnesses of Christ and bearers to God's love to the world. May we be courageous missionaries and catechists in our families and communities. Supported by your help, may we be welcomed one day in the unending joys of heaven. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_calungsod.png",
+                "full": "img/prayers/full/calungsod.png"
+            }
+        },
+        {
+            "id": 60,
+            "prayer_title": "Novena Prayer to Our Lady of Perpetual Help",
+            "prayer_category": "Devotional Prayers",
+            "content": "Dear Mother of Perpetual Help from the cross Jesus gave you to us for our Mother. You are the kindness, the most loving of all mothers. Look tenderly on us your children as we now ask you to help us in all our needs especially this one…<br/> While you were on earth, dear Mother you willing shared in the sufferings of your Son. Strengthened by your faith and confidence in the fatherly love of God you accepted the mysterious designs of His Will. We too have our crosses and trials. Sometimes they almost crush us to the ground. Dearest Mother, share with us your abundant faith and confidence in God. Make us aware that God never ceases to love us; that He answers all our prayers in the way that is best for us. Strengthen our hearts to carry the cross in the footsteps of your Divine Son. Help us to realize that he who shares the cross of Christ will certainly share  <br/> His resurrection. Dearest Mother, as we worry about our own problems let us not forget the needs of others. You always love others so much; help us to do the same. While praying for our own intentions and for all the intentions of all here present at this Novena we earnestly ask you, our Mother, to help us comfort the sick and the dying give hope to the poor and unemployed, heal the broken-hearted lighten the burden of the oppressed, teach justice to their oppressors and bring back to God all those who have offended Him. Dearest Mother, help us to avoid sin which separates us from our heavenly Father and from one another. Full of trust in you, we place ourselves under the mantle of your maternal protection and confidently hope for your powerful help. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_perpetualhelp.png",
+                "full": "img/prayers/full/perpetualhelp.png"
+            }
+        },
+        {
+            "id": 61,
+            "prayer_title": "Prayer to Our Lady of Fatima",
+            "prayer_category": "Devotional Prayers",
+            "content": "O Most Holy Virgin Mary, Queen of the most holy Rosary, you were pleased to appear to the children of Fatima and reveal a glorious message. We implore you, inspire in our hearts a fervent love for the recitation of the Rosary. By meditating on the mysteries of the redemption that are recalled therein may we obtain the graces and virtues that we ask, through the merits of Jesus Christ, our Lord and Redeemer.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_ladyoffatima.png",
+                "full": "img/prayers/full/ladyoffatima.png"
+            }
+        },
+        {
+            "id": 62,
+            "prayer_title": "Prayer to Our Lady of Guadalupe",
+            "prayer_category": "Devotional Prayers",
+            "content": "Our Lady of Guadalupe, mystical rose, intercede for the Church, protect the Holy Father, help all who invoke you in their necessities. Since you are the ever Virgin Mary and Mother of the true God, obtain for us from your most holy Son the Grace of a firm faith and sure hope amid the bitterness of life, as well as an ardent love and the precious gift of final perseverance. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_guadalupe.png",
+                "full": "img/prayers/full/guadalupe.png"
+            }
+        },
+        {
+            "id": 63,
+            "prayer_title": "Prayer to Our Lady of Lourdes",
+            "prayer_category": "Devotional Prayers",
+            "content": "O Immaculate Virgin Mary, you are the refuge of sinners, the health of the sick, and the comfort of the afflicted. By your appearances at the Grotto of Lourdes you made it a privileged sanctuary where your favors are given to people streaming to it from the whole world. Over the years countless sufferers have obtained the cure of their infirmities,whether of soul, mind, or body. Therefore I come with limitless confidence to implore your motherly intercession. Loving Mother, obtain the grant of my requests. Let me strive to imitate your virtues on earth so that I may one day share your glory in heaven.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_lourdes.png",
+                "full": "img/prayers/full/lourdes.png"
+            }
+        },
+        {
+            "id": 64,
+            "prayer_title": "Prayer to Mary Help of Christians",
+            "prayer_category": "Devotional Prayers",
+            "content": "Most Holy and Immaculate Virgin, Help of the Christians, we place ourselves under your motherly protection. Throughout the Church's history you have helped Christians in times of trial, temptation and danger. Time and time again, you have proven to be the Refuge of sinners, the Hope of the hopeless, the Consoler of the afflicted, and the Comforter of the Dying. We promise to be faithful disciples of Jesus Christ, your Son, to proclaim His Good News of God's love for all people, and to work for peace and justice in our world. With faith in your intercession, we pray for the Church, for our family and friends, for the poor and abandoned, and all the dying. Grant, O Mary, Help of Christians, the graces of which we stand in need.May we serve Jesus with fidelity and love until death. Help us and our loved ones to attain the boundless joy of being forever with our Father in heaven. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_maryhelpofchristians.png",
+                "full": "img/prayers/full/maryhelpofchristians.png"
+            }
+        },
+        {
+            "id": 65,
+            "prayer_title": "Act of Consecration to the Most Sacred Heart of Jesus",
+            "prayer_category": "Devotional Prayers",
+            "content": "Most Sacred Heart of Jesus, You have revealed to St. Mary Margaret Your desire to reign over Christian families. Look upon us, assembled here today to proclaim Your absolute Kingship over us. We desire from now on to shape our lives in accordance with You have promised, Your peace here below, an to ward off the worldly spirit which You have condemned. You shall reign over our minds the simplicity of our faith upon our hearts through a boundless love for You alone, a love we intend to keep alive by the frequent reception of the Holy Eucharist. Please, O Sacred Heart, preside over our meetings. Bless our spiritual and temporal cares. Banish our anxieties. Sanctify our sorrows. Should any of us have the misfortune to offend You, remind us, O Divine Heart, that You have nothing but kindness and mercy for the repentant sinner. When the hour of parting comes and death brings bereavement to our home, then we will all be redesigned to Your will. One thought alone shall comfort us, that a day will come when our family, reunited in Heaven, shall extol Your glories and Your benefits forever. May the Immaculate Heart of Mary and the Glorious patriarch St. Joseph, make their presence felt, here with You, presenting to You this act of consecration and to keep us mindful of it day by day. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_mostsacred.png",
+                "full": "img/prayers/full/mostsacred.png"
+            }
+        },
+        {
+            "id": 66,
+            "prayer_title": "Prayer to the Sacred Heart of Jesus",
+            "prayer_category": "Devotional Prayers",
+            "content": "O Lord Jesus, I pray for peace, harmony, and well being in my home. Keep us under Your holy mantle. Bless and protect, O Lord, my endeavors, my enterprises and all those who depend on me and everything that I long for and desire. Banish from my mind an my heart false ideas and evil sentiments. Infuse in me love of my neighbor and grant me the means to help him. Give me resignation and fortitude of spirit in times of adversity, so that I may rise above all. Guide and protect. O Lord, own those who are exposed to the dangers and contingencies of the world. Do not forget, O my Jesus, our loved ones with whom we were united with life and whose death caused us sorrow, at the same time consoled by the thought that, because they remained faithful to You, You did not abandon them at the hour of death. Have pity on them, O Lord, and bring them to their eternal glory in heaven. Amen.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_sacredheart.png",
+                "full": "img/prayers/full/sacredheart.png"
+            }
+        },
+        {
+            "id": 67,
+            "prayer_title": "Prayer to the Immaculate Conception",
+            "prayer_category": "Devotional Prayers",
+            "content": "O Mary, Mother of Jesus, and my Dear Mother, too, I honor and love you as the Immaculate Conception. Your soul is most beautiful because it is full of grace and free from every sin. Mary, Mother most pure, into your care I give my body and my soul. Keep them pure and holy. O Mary, conceived without sin, pray for us who have recourse to you.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_conception.png",
+                "full": "img/prayers/full/conception.png"
+            }
+        },
+        {
+            "id": 68,
+            "prayer_title": "Consecration to the Immaculate Heart of Mary",
+            "prayer_category": "Devotional Prayers",
+            "content": "O Mary, Queen of heaven and refuge of sinners, I consecrate myself to your Immaculate Heart. I consecrate to you my being and my whole life, all that I have, all that I love, all that I am: to you I give my body, my heart and my soul. To you I give my home, my family, my country. I desire everything in me and around me to belong to you and share in the benefits of your motherly benediction. I promise you, O glorious Mother of God and loving Mother of men, to spread devotions to your immaculate Heart, in order to hasten and assure, the coming of the kingdom of the Sacred heart of your adorable Son, in my heart, and in that of all men, in my country and in the while world, as in heaven, so on earth. Amen",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_immaculateheart.png",
+                "full": "img/prayers/full/immaculateheart.png"
+            }
+        },
+        {
+            "id": 69,
+            "prayer_title": "Novena Prayer to Our Lady of the Assumption",
+            "prayer_category": "Devotional Prayers",
+            "content": "O Immaculate Virgin Mary, Mother of God, and our Mother, we firmly believe in your glorious Assumption, body and soul, into Heaven, and we offer You the tribute of our love and of our true devotion. <br/> O You, who contemplate with Thine eyes the glorious Humanity of Your Son, You who enjoy the full beatitude of seeing face to face the adorable Trinity, purify we beseech You, our senses, that we may learn, here below, to enjoy God and God alone in the beauty of earthly creatures. <br/> We are confident that You look down with compassion upon out miseries, our sufferings, our temptations an our weaknesses; and in the vale o tears, we await from Your celestial light and from Your maternal solicitude, consolation in our sorrows and in particular the grace which we humbly beg from Thy bounty. <br/> Comforted by our faith in your glorious Assumption we turn to you, our life, our sweetness, and our Hope. Draw us, to your charm of voice and after this our exile, show unto us, Jesus, the blesses fruit of Thy womb, O clement, O loving, O sweet Virgin Mary.",
+            "image": {
+                "thumb": "img/prayers/thumb/thumb_assumption.png",
+                "full": "img/prayers/full/assumption.png"
+            }
+        }
+    ]
+}

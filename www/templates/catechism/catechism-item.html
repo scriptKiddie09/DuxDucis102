@@ -1,0 +1,15 @@
+<ion-view title="{{catechism.title}}">
+  <ion-content>
+  	<img class="full-image" src="{{catechism.thumbnail_images.large.url}}">
+
+  	<div class="list card">
+  		<div class="item">
+  			<h2>{{catechism.title}}</h2>
+  		</div>
+
+  		<div class="item item-body">
+  			<p ng-bind-html="catechism.content"></p>
+  		</div>
+  	</div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,17 @@
+<ion-view title="Entry">
+  <ion-content>
+  	<img class="full-image" src="{{message.thumbnail_images.large.url}}">
+
+  	<div class="list card">
+  		<div class="item">
+  			<h2>{{message.title}}</h2>
+  		</div>
+
+  		<div class="item item-body">
+  			<p ng-bind-html="message.content">
+  				
+  			</p>
+  		</div>
+  	</div>
+  </ion-content>
+</ion-view>

@@ -1,0 +1,15 @@
+<ion-view title="Immaculate Conception">
+  <ion-content>
+
+  	<div class="list card" ng-repeat="church in vicariates | filter: {vicariate: 'Immaculate Conception'}" ui-sref="tab.immaculate-church({churchId:church.id})">
+  		<div class="item">
+  			<h2>{{church.church_name}}</h2>
+  			<p>Headed by: {{church.parish_priest.name}}</p>
+  		</div>
+  		<div class="item item-image">
+  			<img ng-src="{{church.image.thumb_image}}">
+  		</div>
+  	</div>
+
+  </ion-content>
+</ion-view>

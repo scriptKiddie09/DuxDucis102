@@ -1,0 +1,11 @@
+<ion-view title="News-Feed">
+  <ion-content>
+	<div class="list">
+		<div class="item" ng-repeat="feed in feeds" ui-sref="tab.feed-info({feedId:$index})">
+			<h2>{{feed.title}}</h2>
+			<p>{{feed.publishedDate}}</p>
+		
+		</div>
+	</div>
+  </ion-content>
+</ion-view>

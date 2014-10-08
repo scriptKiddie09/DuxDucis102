@@ -1,0 +1,10 @@
+<ion-view title="Verse of the Day">
+  <ion-content>
+  	<h1>{{votd.display_ref}}</h1>
+    <div class="list card" ng-class="modeClass" >
+    	<div class="item item-body">
+    		<p ng-bind-html="votd.text"></p>
+    	</div>
+    </div>
+  </ion-content>
+</ion-view>

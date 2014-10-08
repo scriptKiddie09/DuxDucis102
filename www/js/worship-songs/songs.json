@@ -1,0 +1,155 @@
+{
+    "song_collections": [
+        {
+            "id": 0,
+            "song_category": "English Songs",
+            "song_name": "Anima Christi",
+            "song_lyrics": "Soul of Christ, sanctify me <br/> Body of Christ, save me <br/> Water from the side of Christ wash me. Passion of Christ, give me strength <br/><b>Pre-Chorus</b> Hear me Jesus <br/> That I may never leave Thy side <br/><br>Chorus 1:</b><br/> From all the evil that surrounds me, defend me <br/>And when the call of death arrives, bid me come to Thee <br/> That I may praise Thee with Thy saints forever <br/><b><i> (Pre-Chorus)</i></b> <br/><b> Chorus 2:</b> <br/> From all the evil that surrounds me, defend me. <br/> And when the call of death arrives, bid me come to thee <br/> That I may praise Thee with Thy saints forever",
+            "song_url":"/android_asset/www/audio/pagkain.mp3"
+        },
+        {
+            "id": 1,
+            "song_category": "English Songs",
+            "song_name": "As The Deer",
+            "song_lyrics": "<b> Verse 1: </b><br/> As the deer panteth for the water <br/> So my soul longeth <br>/ You alone are my heart's desire <br/> And I long to worship Thee. <br/><b> Chorus: </b><br/> You alone are my strength, my shield <br/> To You alone, may my spirit yeild <br/> You alone are my heart's desire <br/> And I long to worship Thee. <br/><b> Verse 2:</b><br/> I want You more than gold or silver, <br/> Only You can satisfy. <br/> You alone are the real joygiver, <br/> And the apple of my eye. <br/><b><i> (Repeat Chorus) </b></i> <br/><b> Verse 3: </b> You're my friend and You're my brother <br/> Even though You are a king. <br/> I love You more than any other, So much more than anything <br/><b><i> (Repeat Chorus except last line) </b></i> <br/> And I long to worship Thee <br/> Give the glory to the Father <br/> And give thanks to His only Son <br/> Praise and worship to the Holy Spirit <br/> Now, forevermore <br/><b><i> (Repeat Chorus) </b></i> "
+        },
+        {
+            "id":2,
+            "song_category": "English Songs",
+            "song_name": "Ascribe Greatness",
+            "song_lyrics": "<b> Chorus: </b><br/> Ascribe greatness to our God, the Rock <br/> His work is perfect and all His ways are just <br/> Ascribe greatness to our God, the Rock <br/> His work is perfect and all His ways are just <br/><b> Verse 1: </b><br/> A God of faithfulness and without injustice <br/> Good and upright is He <br/> A Good of faithfulness and without injustice <br/> Good and upright is He <br/><b><i>(Chorus)</b></i>"
+        },
+        {
+            "id": 3,
+            "song_category": "English Songs",
+            "song_name": "Come Into His Presence",
+            "song_lyrics": "Come into His presence with thanksgiving in my heart <br/> And give Him praise, and give Him praise <br/> Come into His presence with thanksgiving in my heart <br/> your voices raise, your voices raise  <br/> Give glory and honor and power unto Him <br/> Jesus, the name, above all names "
+        },
+        {
+            "id": 4,
+            "song_category": "English Songs",
+            "song_name": "Come To The Table",
+            "song_lyrics": "<b> Chorus: </b><br> Come to the table <br/> Enter His presence <br/> Feast with thanksgiving and celebrate His love <br/><b> Verse 1: </b><br/> This is the house of the Lord <br/> His gates are open wide <br/> Sinner and saint, Strong and faint <br/> All welcome to come inside <br/><b><i> (Chorus) </i></b> Verse 2: This is the table of the Lord <br/> His banquet satisfies <br/> Bread for the soul <br/> He makes us whole <br/> One body we now arise <br/><b><i> (Repeat Chorus 4x) </b></i> "
+        },
+        {
+            "id": 5,
+            "song_category": "Filipino Songs",
+            "song_name": "Ang Panginoon Ang Aking Pastol",
+            "song_lyrics": "<b> Koro: </b><br/> Ang Panginoon ang aking Pastol <br/> Pinagiginhawa akong lubos <br/><b> Verse 1: </b><br/> Handog Nya'y himlaya'y sariwang pastulan <br/> Ang pahingahan ko'y payapang batisan <br/> Hatid sa kalul'wa ay kaginhawahan <br/> Sa tumpak na landas, Siya ang patnubay. <br/><b><i> (Koro) </i></b><br/><b> Verse 2: </b> Madilim na lambak man ang tatahakin ko, <br/> Wala aking sindak, Siya’y kasama ko. <br/> Ang hawak niyang tungkod ang siyang gabay ko. <br/> Tangan niyang pamalo, sigla’t tanggulan ko. <br/><b><i> (Koro) </i></b>"
+        },
+        {
+            "id": 6,
+            "song_category": "Filipino Songs",
+            "song_name": "Ang Tanging Alay Ko",
+            "song_lyrics": "<b> Koro: </b><br/> Salamat sa Iyo <br/> Aking Panginoong Hesus <br/> Ako'y inibig Mo <br/> At inangking lubos <br/><b> Verse 1: </b><br/> Ang tanging alay ko sa Iyo aking Ama <br/> Ay buong buhay ko puso at kaluluwa <br/> Di na makayanang maipagkaloob <br/> Mamahaling hiyas O gintong sinukob <br/> Ang tanging dalangin O Diyos ay tanggapin <br/> Ang tanging alay ko nawa ay gamitin <br/> Ito lamang Ama wala nang iba pa <br/> Akong hinihiling <br/><b> Verse 2: </b><br/> Di ko akalain <br/> Na ako ay bigyang pansin <br/> Ang taong tulad ko <br/> Di dapat mahalin <br/><b><i> (Koro) </i></b><br/><b> Verse 3: </b><br/> Aking hinihintay <br/> Ang Iyong pagbabalik, Hesus <br/> Ang makapiling Ka'y <br/> Kagalakang lubos <br/><b><i> (Koro) </i></b>"
+        },
+        {
+            "id": 7,
+            "song_category": "Filipino Songs",
+            "song_name": "Awit ng Paghahangad",
+            "song_lyrics": "<b> Verse 1: </b><br/> O Diyos, Ikaw ang laging hanap <br/> Loob ko'y Ikaw ang tanging hangad <br/> Nauuhaw akong parang tigang na lupa <br/> Sa tubig ng 'Yong pag-aaruga <br/><b> Verse 2: </b><br/> Ika'y pagmamasdan sa dakong banal <br/> Nang makita ko ang 'Yong pagkarangal <br/> Dadalangin akong nakataas aking kamay <br/> Magagalak na aawit ng papuring iaalay <br/><b> Koro: </b><br/> Gunita ko'y Ikaw habang nahihimlay <br/> Pagkat ang tulong Mo sa tuwina'y taglay <br/> Sa lilim ng Iyong mga pakpak <br/> Umaawit akong buong galak <br/><b> Verse 3: </b><br/> Aking kaluluwa'y kumakapit sa 'Yo <br/> Kaligtasa'y tiyak kung hawak Mo ako <br/> Magdiriwang ang hari, ang Diyos, S'yang dahilan <br/> Ang sa Iyo ay nangako, galak yaong makamtan <br/><b><i> (Ulitin ang Koro maliban sa huling linya) </i></b><br/> Umaawit, umaawit <br/> Umaawit akong buong galak"
+        },
+        {
+            "id": 8,
+            "song_category": "Filipino Songs",
+            "song_name": "Awit ng Papuri",
+            "song_lyrics": "<b> Verse 1: </b><br/> Nilikha N’ya ang langit at lupa. <br/> Nilikha N’ya ang araw at buwan. <br/> Nilikha N’ya ang mga isda’t ibon. <br/> Mga gubat at karagatan. <br/> Tunay S’yang banal at dakila. <br/> Purihin ang Kanyang Ngalan. <br/> Ang lahat ng likha N’ya’y mabuti. <br/> Pinagyaman N’ya ng lubusan. <br/><b> Koro: </b><br/> Purihin ninyo ang Panginoon, <br/> dakilain ang Kanyang Ngalan <br/> Purihin S’ya ay awitan <br/> at papurihan magpakailanman. <br/><b> Verse 2: </b><br/> Nilalang ng Panginoon ang tao, <br/> Sa sarili Niyang larawan. <br/> Nilalang N’ya ang sangkatauhan, <br/> Binigyan N’ya ng kalayaan. <br/>Tunay S’yang banal at dakila. <br/> Purihin ang Kanyang Ngalan. <br/> Kahit nagkasala ang tao. <br/> Minahal N’ya pa rin ng lubusan.  <br/><b><i> (Koro) </i></b>"
+        },
+        {
+            "id": 9,
+            "song_category": "Filipino Songs",
+            "song_name": "Bayan, Magsiawit Na!",
+            "song_lyrics": "Bayan, magsiawit na! Bayan, pinagpala ka! <br/> Dakilang biyayang pangako Niya, sumilay na! <br/> Sinauna Mong hangarin <br/> ang tao nga’y tubusin. <br/> Upang siya ay makapiling. <br/> Mapag-irog na Diyos natin. <br/> Sa aba N'yang pagkatao, <br/> sa buhay N'ya sa mundo <br/> Inihayag Kanyang puso, <br/> Tinig ng Ama nating Diyos "
+        },
+        {
+            "id": 10,
+            "song_category": "Service Songs",
+            "song_title": "Panginoon, Maawa Ka",
+            "song_lyrics": "Panginoon, maawa Ka <br/> Panginoon, maawa Ka <br/> Kristo, Kristo <br/> Kristo, maawa Ka <br/> Panginoon, maawa Ka <br/> Kristo, maawa Ka <br/> Panginoon, maawa Ka"
+        },
+        {
+            "id": 11,
+            "song_category": "Service Songs",
+            "song_name": "Prodigal Son",
+            "song_lyrics": "<b> Verse 1: </b><br/> Father, I have sinned <br/> Help me find my way <br/> Remember not my sins, <br/> Just let me hear You say: <br/><b> Chorus: </b><br/> I forgive you, I love you, <br/> You are Mine, take My hand <br/> Go in peace, sin no more <br/> Beloved one. <br/><b> Verse 2: </b><br/> Father I have turned my back and walked away <br/> Depended on my strength, <br/> And live life my own way. <br/><b><i> (Chorus) </i></b><br/><b> Verse 3: </b><br/> Father I've returned. <br/> I'm home with You to stay <br/> Standing by Your door. <br/> Knowing that You'll say. <br/><b><i> (Chorus) </i></b>"
+        },
+        {
+            "id": 12,
+            "song_category": "Service Songs",
+            "song_name": "Luwalhati sa Diyos",
+            "song_lyrics": "Luwalhati sa Diyos sa kaitaasan <br/> Kaloob sa lupa'y kapayapaan <br/> Pinupuri Ka't ipagdarangal <br/> Sinasamba Ka dahil sa dakila Mong kaluwalhatian <br/> Panginoon naming Diyos <br/> Hari ng langit <br/> Amang makapangyarihan <br/> Panginoong Hesukristo <br/> Bugtong na anak ng Diyos <br/> Kordero nng Ama <br/> Ikaw na nagaalis ng mga kasalanan ng sanlibutan <br/> Tanggapin mo ang aming kahilingan <br/> Ikaw na naluluklok sa kanan ng Ama <br/> Maawa ka  sa amin <br/> Ikaw lamang ang banal <br/> Panginoong Hesukristo <br/> Kasama ng Espiritu <br/> Sa luwhati ng ama <br/> Amen."
+        },
+        {
+            "id": 13,
+            "song_category": "Service Songs",
+            "song_name": "Papuri sa Diyos",
+            "song_lyrics": "<b> Koro: </b><br/> Papuri sa Diyos <br/> Papuri sa Diyos <br/> Papuri sa Diyos sa kaitaasan <br/><b> Verse 1: </b><br/> At sa lupa'y kapayapaan <br/> At sa lupa'y kapayapaan <br/> Sa mga taong kinalulugdan niya <br/> Pinupuri ka namin, dirangal ka namin <br/> Sinasamba ka namin, ipinagbubunyi ka namin <br/> Pinasasalamatan ka namin <br/> Dahil sa dakila mong angking kapurihan <br/> Panginoong Diyos <br/> Hari ng Langit <br/> Diyos Amang makapangyarihan sa lahat <br/> Panginoong Hesukristo <br/> Bugtong na Anak <br/> Panginoong Diyos <br/> Kordero ng Diyos <br/> Anak ng Ama <br/><b><i> (Koro)</i></b><br/><b> Verse 2: </b><br/> Ikaw na nag-aalis ng mga kasalanan ng sanlibutan <br/> Maawa ka, maawa ka, sa amin <br/> Ikaw na nag-aalis ng mga kasalanan ng sanlibutan <br/> Tanggapin mo ang aming kahilingan <br/> Tanggapin mo ang aming kahilingan <br/> Ikaw na naluluklok sa kanan ng Ama <br/> Maawa ka, maawa ka <br/> Sa amin <br/><b><i> (Koro)</i></b><br/><b> Verse 1: </b><br/> Sapagkat ikaw lamang ang banal <br/> At ang kataas-taasan <br/> Ikaw lamang o Hesukristo <br/> Ang Panginoon <br/> Kasama ng Espiritu Santo sa kadakilaan <br/> Ng Diyos Ama Amen <br/> Ng Diyos Ama Amen <br/><b><i> (Koro)</i></b>"
+        },
+        {
+            "id": 14,
+            "song_category": "Service Songs",
+            "song_name": "Aleluya (Wikain)",
+            "song_lyrics": "Alleluia, Alleluia <br/> Wikain Mo <br/> Poon nakikinig ako <br/> Sa Iyong mga Salita <br/> Alleluia, Alleluia"
+        },
+        {
+            "id": 15,
+            "song_category": "Marian Songs",
+            "song_name": "Abang Maria",
+            "song_lyrics": "<b> Verse 1: </b><br/> Sino'ng mas malumanay sa kogong kumakaway <br/> Sino'ng mas dalisay sa hamog sa himaymay <br/> Sino'ng mas malambing sa mapaglarong hangin <br/> Sino'ng mas maningning sa buwan at bituin <br/><b> Koro: </b><br/> Abang Maria, mahal naming ina <br/> Ang landas tungo kay Hesukristo <br/> Buong tiwala kanyang winika; <br/> Maganap nawa ang 'Yong salita <br/><b> Verse 2: </b><br/> Sino'ng magpapayapa sa bagyong nananakot <br/> Sino'ng magpapasigla sa damong sumukot <br/> Sino'ng kandungan ng mga dukha <br/> Sino'ng tanggulan ng mahihina <br/><b><i> (Koro)</i></b><br/><b> Koda: </b><br/> Sino ang reyna ng langit at lupa <br/> Sino'ng nag-aaruga sa lahat ng nilikha <br/><b><i> (Koro)</i></b>"
+        },
+        {
+            "id": 16,
+            "song_category": "Marian Songs",
+            "song_name": "Ang Puso Ko'y Nagpupuri",
+            "song_lyrics": "<b> Koro: </b><br/> Ang puso ko'y nagpupuri <br/> Nagpupuri sa Panginoon <br/> Nagagalak ang aking espiritu <br/> Sa 'king Tagapagligtas <br/><b> Verse 1: </b><br/> Sapagkat nilingap Niya <br/> Kababaan ng Kanyang alipin <br/> Mapalad ang pangalan ko <br/> Sa lahat ng mga bansa <br/><b><i> (Koro)</i></b><br/><b> Verse 2: </b><br/> Sapagkat gumawa ang Poon <br/> Ng mga dakilang bagay <br/> Banal sa lupa't langit <br/> Ang pangalan ng Panginoon <br/><b><i> (Koro)</i></b><br/><b> Verse 3: </b><br/> Luwalhati sa Ama <br/> Sa Anak at sa Espiritu Santo <br/> Kapara noong unang-una <br/> Ngayon at magpakailanman <br/><b><i> (Koro)</i></b>"
+        },
+        {
+            "id": 17,
+            "song_category": "Marian Songs",
+            "song_name": "Awit sa Ina ng Santo Rosario",
+            "song_lyrics": "Minsan ang buhay ay isang awit ng galak, at mayroong liwanag na tatanglaw sa ating pagyapak. <br/> Minsan ang buhay ay isang awit ng luha, at siyang papawi nito ay ang pag-asa ng umaga, <br/> at kahit anong tindi ng unos, at kahit anong tindi ng dilim <br/> may isang inang nagmamatyag, nagmamahal sa 'tin. <br/> Awit niya'y pag-ibig ng Diyos, tawag niya'y magbalik-loob, <br/> turo nya'y buhay na ang Diyos lamang sa ati'y nagkaloob.. <br/><b> Koro: </b><br/> O Inang mahal narito kami awit awit ang Ave Maria at dalangin ng bawat pamilya'y kapayapaa't pagkakaisa <br/> Ang rosaryo mong hawak namin at awit awit ang Ave Maria puspos ka ng diwang banal, dinggin ang aming payak na dasal <br/> Ihatid mo kami sa langit ng amang nagmamahal <br/><b><i> (ulitin ang Koro)</i></b>"
+        },
+        {
+            "id": 18,
+            "song_category": "Marian Songs",
+            "song_name": "Hail Mary",
+            "song_lyrics": "Hail Mary, <br/> Full of Grace, <br/> The Lord is with thee. <br/> Blessed art thou among women, and blessed is the fruit of thy womb, Jesus. <br/> Holy Mary, <br/> Mother of God, pray for us sinners now, and at the hour of death. <br/> Amen."
+        },
+        {
+            "id": 19,
+            "song_category": "Marian Songs",
+            "song_name": "Mariang Ina Ko",
+            "song_lyrics": "<b> Verse 1: </b><br/> Sa 'king paglalakbay sa bundok ng buhay <br/> Sa ligaya't lumbay maging talang gabay <br/><b> Koro: </b><br/> Mariang ina ko, ako ri'y anak mo <br/> Kay Kristong Kuya ko akayin mo ako <br/> Kay Kristong Kuya ko akayin mo ako <br/><b> Verse 2: </b><br/> Maging aking tulay sa langit kong pakay <br/> Sa bingit ng hukay tangnan aking kamay <br/><b><i> (Koro)</i></b><br/><b> Verse 3: </b><br/> Sabihin sa Kanya aking dusa at saya <br/> Ibulong sa Kanya, minamahal ko Siya <br/><b><i> (Koro)</i></b>"
+        },
+        {
+            "id":20,
+            "song_category": "Seasonal Songs",
+            "song_name": "Ang Pasko Ay Sumapit",
+            "song_lyrics": "<b> Verse 1: </b><br/> ng Pasko ay sumapit <br/> Tayo ay mangagsi-awit <br/> Ng magagandang himig <br/> Dahil sa Diyos ay pag-ibig. <br/> Nang si Kristo'y isilang <br/> May tatlong haring nagsidalaw <br/> At ang bawa't isa ay nagsipaghandog <br/> Ng tanging alay. <br/><b> Koro: </b><br/> Bagong Taon ay magbagong-buhay <br/> Nang lumigaya ang ating bayan <br/> Tayo'y magsikap upang makamtan <br/> Natin ang kasaganahan. <br/><b> Verse 2: </b><br/>Tayo'y mangagsi-awit <br/> Habang ang mundo'y tahimik <br/> Ang araw ay sumapit <br/> Ng sanggol na dulot ng langit <br/> Tayo ay magmahalan <br/> Ating sundin ang gintong aral <br/> At magbuhat ngayon <br/> Kahit hindi Pasko ay magbigayan! <br/><b><i> (Ulitin ang Koro at Verse 2) </i></b><br/><b> Koda: </b><br/> At magbuhat ngayon <br/> Kahit hindi Pasko ay magbigayan!"
+        },
+        {
+            "id": 21,
+            "song_category": "Seasonal Songs",
+            "song_name": "Emmanuel",
+            "song_lyrics": "Isang dalaga'y maglilihi <br/> Batang lalaki ang sanggol <br/> Tatawagin Siyang Emanuel <br/> Emanuel (2x) <br/> Isang dalaga'y maglilihi <br/> Batang lalaki ang sanggol <br/> Tatawagin Siyang Emanuel <br/> Emanuel (3x) <br/> Kahuluga'y Nasa atin ang Diyos! <br/> Nasa atin ang Diyos! <br/> Nasa atin ang Diyos!"
+        },
+        {
+            "id": 22,
+            "song_category": "Seasonal Songs",
+            "song_name": "Jot to the World",
+            "song_lyrics": "<b> Verse 1: </b><br/> Joy to the world, the Lord is come! <br/> Let earth receive her King; <br/> Let every heart prepare Him room, <br/> And Heaven and nature sing, <br/> And Heaven and nature sing, <br/> And Heaven, and Heaven, and nature sing. <br/><b> Verse 2: </b><br/> Joy to the earth, the Savior reigns! <br/> Let men their songs employ; <br/> While fields and floods, rocks, hills and plains <br/> Repeat the sounding joy, <br/> Repeat the sounding joy, <br/> Repeat, repeat, the sounding joy. <br/><b> Verse 3: </b><br/> He rules the world with truth and grace, <br/> And makes the nations prove <br/> The glories of His righteousness, <br/> And wonders of His love, <br/> And wonders of His love, <br/> And wonders, wonders, of His love."
+        },
+        {
+            "id": 23,
+            "song_category": "Seasonal Songs",
+            "song_name": "O Come All Ye Faithful",
+            "song_lyrics": "<b> Verse 1: </b><br/> O come, all ye faithful, joyful and triumphant, <br/> O come ye, O come ye, to Bethlehem. <br/> Come and behold Him, born the King of angels <br/><b> Chorus: </b><br/> O come, let us adore Him, <br/> O come, let us adore Him, <br/> O come, let us adore Him, <br/> Christ the Lord. <br/><b> Verse 2: </b><br/> Sing, choirs of angels, sing in exultation; <br/> O sing, all ye citizens of heaven above! <br/> Glory to God, all glory in the highest <br/><b><i> (Chorus)</i></b>"
+        },
+        {
+            "id": 24,
+            "song_category": "Seasonal Songs",
+            "song_name": "O Holy Night",
+            "song_lyrics": "Oh holy night! <br/> The stars are brightly shining <br/> It is the night of the dear Savior's birth! <br/> Long lay the world in sin and error pining <br/> Till he appear'd and the soul felt its worth. <br/> A thrill of hope the weary world rejoices <br/> For yonder breaks a new and glorious morn! <br/><b> Chorus: </b><br/> Fall on your knees <br/> Oh hear the angel voices <br/> Oh night divine <br/> Oh night when Christ was born <br/> Oh night divine, Oh night divine"
+        }
+    ]
+}
